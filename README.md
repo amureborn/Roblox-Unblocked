@@ -23,7 +23,7 @@ Roblox Unblocked is available in the [Chrome Web Store](https://chrome.google.co
 # 💡How To Play Roblox Unblocked With Extension
 
 1. Open your browser and navigate to the Chrome Web Store.
-2. Search for a VPN extension, “Roblox Unblocked – Free VPN for Chrome.”
+2. Search for a VPN extension, “[Roblox Unblocked – Free VPN for Chrome.](https://chrome.google.com/webstore/detail/roblox-unblocked/eldafnahjlecijacdkbaoaodclagkchc)”
 3. Click “Add to Chrome” or a similar option to install the extension.
 4. Click on the VPN icon in your browser toolbar.
 5. Select a server location that allows access to Roblox.
