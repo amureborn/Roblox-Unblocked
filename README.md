@@ -2,6 +2,11 @@
 
 Play Roblox Online For Free With help of Roblox Unblocked. This Free VPN for Chrome is a super safe and free tool that you can add to your Chrome web browser. If you are playing Roblox on Chrome and it’s blocked due to location restrictions, you’ll need a Roblox Unblocked VPN Extension to enjoy the game.
 
+## What Will Our Chrome Extension Look Like?
+
+![Roblox VPN](https://github.com/TechnoMare/Roblox-Unblocked/assets/96228020/57967bdd-903d-4ba7-91f5-bf68bcf1842d)
+
+
 # 💡Key Features:
 
 ✅Fast Internet: It won't slow down your internet speed, so you can do everything online quickly.
