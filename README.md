@@ -4,8 +4,7 @@ Play Roblox Online For Free With help of Roblox Unblocked. This Free VPN for Chr
 
 ## What Will Our Chrome Extension Look Like?
 
-![Roblox VPN](https://github.com/TechnoMare/Roblox-Unblocked/assets/96228020/57967bdd-903d-4ba7-91f5-bf68bcf1842d)
-
+![Roblox Unblocked VPN](https://github.com/TechnoMare/Roblox-Unblocked/assets/96228020/fdaa2de5-0687-413d-8b8c-428df1d62686)
 
 # 💡Key Features:
 
