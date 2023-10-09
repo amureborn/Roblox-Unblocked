@@ -1,6 +1,6 @@
 # Roblox Unblocked: Play Roblox Online for Free
 
-Play Roblox Online For Free With help of [Roblox Unblocked](https://educatefarm.in/roblox-unblocked-vpn-free-vpn-for-chrome/). This Free VPN for Chrome is a super safe and free tool that you can add to your Chrome web browser. If you are playing Roblox on Chrome and it’s blocked due to location restrictions, you’ll need a Roblox Unblocked VPN Extension to enjoy the game.
+[Play Roblox Online For Free](https://educatefarm.in/) With help of [Roblox Unblocked]([https://educatefarm.in/](https://educatefarm.in/roblox-unblocked-vpn-free-vpn-for-chrome/). This Free VPN for Chrome is a super safe and free tool that you can add to your Chrome web browser. If you are playing Roblox on Chrome and it’s blocked due to location restrictions, you’ll need a Roblox Unblocked VPN Extension to enjoy the game.
 
 Roblox Unblocked is available in the [Chrome Web Store](https://chrome.google.com/webstore/detail/roblox-unblocked/eldafnahjlecijacdkbaoaodclagkchc)
 
@@ -31,6 +31,10 @@ Roblox Unblocked is available in the [Chrome Web Store](https://chrome.google.co
 
 One cool thing is that this Roblox Unblocked VPN Extension is free, and you don't need to log in or sign up to use the services.
 
-# Disclaimer
+# How to Unblock Roblox at School?
 
-If you want to take control of your online freedom, just add Roblox Unblocked VPN to your Chrome browser. But remember, even though it helps keep you safe, it doesn't make you completely invisible online. And, you should always use it following the rules of your country or area. Enjoy your internet freedom responsibly!
+You may bypass these restrictions imposed by the school administration by using:
+
+1. A Proxy server
+2. A VPN. ([Roblox Unblocked VPN for Chrome is a super safe and free tool](https://educatefarm.in/roblox-unblocked-vpn-free-vpn-for-chrome/)).
+3. You can also use Tor or Node Unblocker.
