@@ -17,15 +17,10 @@ Play Roblox Online For Free With help of Roblox Unblocked. This Free VPN for Chr
 # 💡How To Play Roblox Unblocked With Extension
 
 1. Open your browser and navigate to the Chrome Web Store.
-
 2. Search for a VPN extension, “Roblox Unblocked – Free VPN for Chrome.”
-
 3. Click “Add to Chrome” or a similar option to install the extension.
-
 4. Click on the VPN icon in your browser toolbar.
-
 5. Select a server location that allows access to Roblox.
-
 6. Connect to the server and enjoy Roblox.
 
 One cool thing is that this Roblox Unblocked VPN Extension is free, and you don't need to log in or sign up to use the services.
