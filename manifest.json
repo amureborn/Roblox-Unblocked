@@ -1,0 +1,20 @@
+{
+   "action": {
+      "default_popup": "popup.html"
+   },
+   "author": "__MSG_extName__",
+   "background": {
+      "service_worker": "background.bundle.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extDesc__",
+   "icons": {
+      "128": "icon128.png"
+   },
+   "manifest_version": 3,
+   "name": "__MSG_extName__",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0YYpJ0cx2QQWNGyX96g6v3/lV3n78qJeka1jHlUi912LAnYAsaE3RcYDCY4jbX7iUpIyJ+n3BSwvgfu0DRvyK0RVvt4wbXXix03Nd+fl71/ZeioYgAZFqJp+yKdAYlDCo+/PgbhGzN+uOlTXTH67fGdlzSqkh73OT4OazMhTS13TH/qDpjR/PTWbzCwte+ydsFAX0nun5JFLi1wGje3OoqxfoUH3cOJgIlEiLJFr8yW9FqU2UiBVip+ShvpxrqPk4HY+tFJ5HAQaLkhOj7S9nCYdBTPZRRFtWAXbPPdyMHWyTBMx4tJ3XcWEH0SMm67RVi/LYAty9IU0sgOahmsVawIDAQAB",
+   "permissions": [ "proxy", "storage" ],
+   "short_name": "Roblox Unblocked - ",
+   "version": "1.1.1"
+}
