@@ -8,7 +8,7 @@ Roblox Unblocked is available in the [Chrome Web Store](https://chrome.google.co
 
 ![Roblox Unblocked VPN](https://github.com/TechnoMare/Roblox-Unblocked/assets/96228020/fdaa2de5-0687-413d-8b8c-428df1d62686)
 
-# 💡Key Features:
+# Key Features:
 
 ✅Fast Internet: It won't slow down your internet speed, so you can do everything online quickly.
 
@@ -20,7 +20,7 @@ Roblox Unblocked is available in the [Chrome Web Store](https://chrome.google.co
 
 ✅Privacy Protection: It makes sure that the things you do online stay private and safe from bad stuff.
 
-# 💡How To Play Roblox Unblocked With Extension
+# How To Play Roblox Unblocked With Extension
 
 1. Open your browser and navigate to the Chrome Web Store.
 2. Search for a VPN extension, “[Roblox Unblocked – Free VPN for Chrome.](https://chrome.google.com/webstore/detail/roblox-unblocked/eldafnahjlecijacdkbaoaodclagkchc)”
