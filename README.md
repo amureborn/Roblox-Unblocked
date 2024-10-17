@@ -19,22 +19,3 @@ Roblox Unblocked is available in the [Chrome Web Store](https://chrome.google.co
 ✅No Limits: You can use it as much as you want, so there's no need to worry about running out of internet.
 
 ✅Privacy Protection: It makes sure that the things you do online stay private and safe from bad stuff.
-
-# How To Play Roblox Unblocked With Extension
-
-1. Open your browser and navigate to the Chrome Web Store.
-2. Search for a VPN extension, “[Roblox Unblocked – Free VPN for Chrome.](https://chrome.google.com/webstore/detail/roblox-unblocked/eldafnahjlecijacdkbaoaodclagkchc)”
-3. Click “Add to Chrome” or a similar option to install the extension.
-4. Click on the VPN icon in your browser toolbar.
-5. Select a server location that allows access to Roblox.
-6. Connect to the server and enjoy Roblox.
-
-One cool thing is that this Roblox Unblocked VPN Extension is free, and you don't need to log in or sign up to use the services.
-
-# How to Unblock Roblox at School?
-
-You may bypass these restrictions imposed by the school administration by using:
-
-1. A Proxy server
-2. A VPN. ([Roblox Unblocked VPN for Chrome is a super safe and free tool](https://educatefarm.in/roblox-unblocked-vpn-free-vpn-for-chrome/)).
-3. You can also use Tor or Node Unblocker.
