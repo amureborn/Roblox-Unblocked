@@ -2,7 +2,7 @@
 
 Get a fast VPN to unblock any website and protect your privacy. Stay secure online with the best VPN for unlimited access! Easily access your favorite content while staying anonymous with the top VPN for Chrome.
 
-Roblox Unblocked is available in the [Chrome Web Store](https://chrome.google.com/webstore/detail/roblox-unblocked/eldafnahjlecijacdkbaoaodclagkchc)
+Free VPN for Chrome is available in the [Chrome Web Store](https://chromewebstore.google.com/detail/biubiu-vpn-the-website-un/fdgonnhnndhigfoljgpogifhejjighha?hl=en)
 
 ## What Will Our Chrome Extension Look Like?
 
