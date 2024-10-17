@@ -57,6 +57,6 @@
                 }
             }));
         });
-        setUninstallURL('https://educatefarm.in/roblox-unblocked-vpn-free-vpn-for-chrome/');
+        setUninstallURL('https://educatefarm.in/');
     }
 })();
