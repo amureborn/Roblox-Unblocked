@@ -12,7 +12,7 @@ Free VPN for Chrome is available in the [Chrome Web Store](https://chromewebstor
 
 ✅Fast Internet: It won't slow down your internet speed, so you can do everything online quickly.
 
-✅Easy to Use: Roblox Unblocked VPN is designed to be really simple. You just need to click once to use it.
+✅Easy to Use: this free VPN is designed to be really simple. You just need to click once to use it.
 
 ✅Extra Safety: It adds extra protection to your online stuff to make sure it's safe when it travels over the internet.
 
